@@ -20,13 +20,14 @@
                 "dark":
                 {   
                     "image": "porygon_gif.gif",
+                    "first_frame": "porygon_gif.gif"
                     "text_color": "#FFFFFF",
                     "text_shadow": "#757575"
                 },
                 "light":
                 {
                     "image": "porygon_gif.gif",
-                    "first_frame": "wallpaper/first_frame.jpeg",
+                    "first_frame": "porygon_gif.gif",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#0B000E"
                 }
