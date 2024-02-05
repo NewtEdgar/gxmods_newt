@@ -32,7 +32,18 @@
                     "text_shadow": "#ffffff",
                     "first_frame": "wallpaper/image_2024-02-05_110513464.png",
                 }
-            }
+                "shaders":
+                {
+                "Cyberdeck":
+                    {
+                    "animation":
+                        {
+                        "duration": 120,
+                        "steps": 3600
+                        },
+                    "path": "shaders/cyberdeck.txt"
+                    }
+                }
         },
         "schema_version": 1
     },
