@@ -34,14 +34,14 @@
                 }
                 "shaders":
                 {
-                "Cyberdeck":
+                    "Cyberdeck":
                     {
-                    "animation":
+                        "animation":
                         {
-                        "duration": 120,
-                        "steps": 3600
+                            "duration": 120,
+                            "steps": 3600
                         },
-                    "path": "shaders/cyberdeck.txt"
+                        "path": "shaders/cyberdeck.txt"
                     }
                 }
         },
