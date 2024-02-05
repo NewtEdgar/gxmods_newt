@@ -19,14 +19,14 @@
             {
                 "dark":
                 {   
-                    "image": "porygon_gif.gif",
+                    "image": "porygon.png.gif",
                     "text_color": "#ffffff",
                     "text_shadow": "#ffffff",
                     "first_frame": "image_2024-02-05_110513464.png",
                 },
                 "light":
                 {
-                    "image": "porygon_gif.gif",
+                    "image": "porygon.png.gif",
                     "text_color": "#ffffff",
                     "text_shadow": "#ffffff",
                     "first_frame": "image_2024-02-05_110513464.png",
