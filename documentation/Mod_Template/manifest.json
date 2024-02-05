@@ -21,15 +21,11 @@
                 {   
                     "image": "porygon_gif.gif",
                     "first_frame": "image_2024-02-05_110513464.png"
-                    "text_color": "#FFFFFF",
-                    "text_shadow": "#757575"
                 },
                 "light":
                 {
                     "image": "porygon_gif.gif",
                     "first_frame": "image_2024-02-05_110513464.png",
-                    "text_color": "#FFFFFF",
-                    "text_shadow": "#0B000E"
                 }
             }
         },
