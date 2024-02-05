@@ -1,5 +1,5 @@
 {
-    "name": "MOD NAME GOES HERE",
+    "name": "porygon",
     "description": "MOD DESCRIPTION GOES HERE",
     "developer":
     {
@@ -164,13 +164,13 @@
             {
                 "dark":
                 {   
-                    "image": "wallpaper/dark.png",
+                    "image": "porygon_gif.gifg",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#757575"
                 },
                 "light":
                 {
-                    "image": "wallpaper/video.webm",
+                    "image": "porygon_gif.gif",
                     "first_frame": "wallpaper/first_frame.jpeg",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#0B000E"
